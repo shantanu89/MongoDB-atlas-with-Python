@@ -19,7 +19,7 @@ d1 = {
     "last":"sample"
 }
 
-
+text="https://us02web.zoom.us/j/82360564107?pwd=ck9iRmlycm9EY3ZKSjlMMG5VaUh6Zz09 "
 db1 = client['mongotest']
 coll = db1['test']
 coll.insert_one(d)
