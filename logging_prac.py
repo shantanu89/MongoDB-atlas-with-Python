@@ -4,6 +4,7 @@ logging.basicConfig(filename="testlog.log", level=logging.INFO)
 
 logging.info("This is test logging code")
 logging.warning("This is test warning")
+logging.error("This is test error msg")
 
 lst = [1, 2, 3, 4, 5]
 

@@ -5,3 +5,8 @@ INFO:root:This is test logging code
 WARNING:root:This is test warning
 INFO:root:2
 WARNING:root:2 found in list
+INFO:root:This is test logging code
+WARNING:root:This is test warning
+ERROR:root:This is test error msg
+INFO:root:2
+WARNING:root:2 found in list
