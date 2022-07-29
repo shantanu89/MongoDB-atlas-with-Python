@@ -12,3 +12,5 @@ for i in lst:
     if i == 2:
         logging.info(i)
         logging.warning("2 found in list")
+
+logging.shutdown()      # nothing will be logged post this statement
