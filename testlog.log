@@ -1,0 +1,7 @@
+INFO:root:This is test logging code
+INFO:root:This is test logging code
+INFO:root:2
+INFO:root:This is test logging code
+WARNING:root:This is test warning
+INFO:root:2
+WARNING:root:2 found in list
